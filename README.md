@@ -14,3 +14,4 @@ The most used library is the version of keras included as a part of tensorflow  
 
 While I do get around 95% convergence on the training data validation data is at about 75% accuracy. I think It would have been better to train the 9x9 and single image versions seperately and then try some sort of transfer learning technique to get better performance overall.But tha tproject is still being tinkered around with to get a good transfer learning architecture.
  
+Adding a seperate rnn example is part of a larger project but I can't show it all publicly. Will update documentation shortly
